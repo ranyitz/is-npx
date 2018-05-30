@@ -1,0 +1,11 @@
+{
+  "name": "is-npx",
+  "version": "1.0.0",
+  "description": "A small utility that checks if the process is running using npx",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": ["is", "npx"],
+  "author": "Ran Yitzhaki",
+  "license": "MIT"
+}

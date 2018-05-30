@@ -1,0 +1,1 @@
+module.exports = () => process.env._ && process.env._.endsWith('/npx');
